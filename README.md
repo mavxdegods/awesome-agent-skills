@@ -41,7 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
-- [GEN](https://gen.pro/skill.md) - Research trends, create videos, and publish social content over MCP with OAuth or PAT. ![GitHub stars](https://img.shields.io/github/stars/poweredbyGEN/gen-mcp-server)
+- [GEN](https://gen.pro/skill.md) - Create ads, cartoons, AI UGC and microdramas; research and publish social content over MCP with OAuth or PAT. ![GitHub stars](https://img.shields.io/github/stars/poweredbyGEN/gen-mcp-server)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
